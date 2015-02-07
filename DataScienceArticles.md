@@ -4,6 +4,9 @@
 3. [A Tour of Machine Learning Algorithms] (http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) - Types of machine learning algorithms by Jason Brownlee.
 4. [A Brief Overview of Deep Learning] (http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html) - Article on the intuition behind deep learning as well as some very useful practical advice by [Ilya Sutskever] (http://www.cs.toronto.edu/~ilya/)
 
+# R
+1. [Labs for R] (https://www.openintro.org/stat/labs.php) - OpenIntro Labs promote the understanding and application of statistics through applied data analysis.
+
 # Data Science
 1. [Data Science Specialization] (http://datasciencespecialization.github.io/) Content created by data science specialization community. Take a look at additional [curated pages] (http://datasciencespecialization.github.io/curated/) at the end of the list.
 2. [Let's Get Nerdy: Data Analytics for Business Leaders Explained] (https://www.linkedin.com/pulse/20140918162814-111366377-let-s-get-nerdy-data-analytics-for-business-leaders-explained) Alex Jones explains with deep detail what is data analytics.
