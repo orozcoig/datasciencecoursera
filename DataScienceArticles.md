@@ -12,3 +12,6 @@
 
 # Data Mining
 1. [I400/590: Mining the Social Web] (http://www.emilio.ferrara.name/i400-590-mining-the-social-web/) - Learn to unleash the full power and potential of Social Web data for research and business application purposes by Emilio Ferrara.
+
+# Courses
+1. [How To Learn Big Data - For Free!] (https://www.linkedin.com/pulse/how-learn-big-data-free-bernard-marr) - If you are interested in learning Big Data, here you are a guide to begin your path.
